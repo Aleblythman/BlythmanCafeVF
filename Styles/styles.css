@@ -1,0 +1,48 @@
+#contacto {
+  color: #131414;
+  width: auto;
+  height: auto;
+  padding: 6px;
+  display: block;
+  background-image: url(https://www.lancetalent.com/blog/wp-content/uploads/Disen%CC%83o-sin-ti%CC%81tulo-1-1.png);
+  background-size: auto;
+}
+
+p {
+  -webkit-animation-duration: 3s;
+          animation-duration: 3s;
+  -webkit-animation-name: slidein;
+          animation-name: slidein;
+}
+
+@-webkit-keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+#precios {
+  background-color: aquamarine;
+  border: 1px solid;
+}
+
+#nosotros {
+  width: 400px;
+  background-color: grey;
+  height: 399px;
+}/*# sourceMappingURL=styles.css.map */
