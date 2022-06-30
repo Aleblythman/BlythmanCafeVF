@@ -42,7 +42,18 @@ p {
 }
 
 #nosotros {
-  width: 400px;
+  width: 399px;
   background-color: grey;
   height: 399px;
+}
+
+article {
+  background-color: black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(66, 206, 206);
+  display: flex;
+}
+article h1 {
+  color: blanchedalmond;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }/*# sourceMappingURL=styles.css.map */
