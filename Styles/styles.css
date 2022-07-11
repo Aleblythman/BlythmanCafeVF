@@ -42,9 +42,14 @@ p {
 }
 
 #nosotros {
+  color: white;
   width: 399px;
   background-color: grey;
   height: 399px;
+}
+
+#footer {
+  background-color: green;
 }
 
 article {
