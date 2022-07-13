@@ -43,13 +43,17 @@ p {
 
 #nosotros {
   color: white;
-  width: 399px;
+  width: auto;
   background-color: grey;
-  height: 399px;
+  height: auto;
+  align-content: center;
 }
 
-#footer {
-  background-color: green;
+footer {
+  display: flex;
+  margin-bottom: auto;
+  justify-content: center;
+  border: 2px;
 }
 
 article {
