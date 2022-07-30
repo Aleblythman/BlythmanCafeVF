@@ -65,4 +65,9 @@ article {
 article h1 {
   color: blanchedalmond;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-}/*# sourceMappingURL=styles.css.map */
+}
+.navbar {
+  display: flex;
+  background-color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
